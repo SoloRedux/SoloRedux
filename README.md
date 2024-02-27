@@ -1,8 +1,9 @@
 # Tentang Saya 👋
 Selamat datang di profil GitHub saya! Saya seorang mahasiswa di bidang komputer dan informasi. Saya saat ini sedang belajar mengenai dunia programing dan komputer.
 
-## Keahlian 
-- **problem solving** saya percaya diri dengan kemampuan saya untuk menyelesaikan masalah
+## Keahlian Teknologi 
+- **PhotoShop** saya sudah cukup lama belajar software photoshop untuk mengedit image
+- **Capcut** saya sudah sering menggunakan capcut sebagai software edit video saya
 
 ## Pendidikan 
 - saya adalah lulusan dari **SMA 19 GARUT**
