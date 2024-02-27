@@ -1,4 +1,23 @@
-### Hi there 👋
+# Tentang Saya 👋
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa di bidang komputer dan informasi. Saya saat ini sedang belajar mengenai dunia programing dan komputer.
+
+## Keahlian 
+- **problem solving** saya percaya diri dengan kemampuan saya untuk menyelesaikan masalah
+
+## Pendidikan 
+- saya adalah lulusan dari **SMA 19 GARUT**
+## Proyek
+- saya pernah berkontribusi dalam tugas besar untuk membuat permainan papan bernama tic-tac-toe
+
+## Menghubungi saya
+
+Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
+- Email :  [ais.laksana423@polban.ac.id](ais.laksana423@polban.ac.id)
+
+Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
+
+
+
 
 <!--
 **SoloRedux/SoloRedux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
